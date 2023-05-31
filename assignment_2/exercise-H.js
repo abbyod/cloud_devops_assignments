@@ -10,11 +10,11 @@
 //What's the difference between a return and console.log?
 //When would you choose to use functions over the way we have been scripting so far?
 
-//my function will multiply two numbers together
-function multiply(num1, num2) {
-    return (num1 * num2);
+//my function will add two numbers together
+function add(num1, num2) {
+    return num1 + num2;
   }
-const result = (multiply);
+const result = (add);
 
 console.log(result);
 
